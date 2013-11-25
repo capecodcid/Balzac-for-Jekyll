@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Recent Posts"
+title: "Pensees"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: typewriter.jpg
