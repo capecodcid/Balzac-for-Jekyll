@@ -1,26 +1,30 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
+#title: About Me
+#description: Ecologist, Physicist, and Aspiring Teacher
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+##Work
+I am currently a physics graduate student at Princeton University, working under Iain Couzin on problems related to collective behavior.  Our work incorporates tools and ideas from a variety of diverse fields---applied mathmatics, machine learning, computer vision, behavioral economics, psychology, network theory, statistical physics, computational neuroscience, ecology, and animal behavior.  It is an incredible place to work with lots really smart (and fun) people.  To learn more about the lab and our work visit the [Couzin Lab website](http://icouzin.princeton.edu).
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+Upon graduating I plan on teaching high school science and math in Providence RI with three goals:
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+* To become an excellent teacher
+* To transform science education into something much more integrated and empirical
+* To train a new generation that is more quantitative and scientifically literate than my own 
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+##Life
+I grew up on Cape Cod and love the ocean in any month, at any temperature.  No ... the beach does not disappear in January and yes ... it does snow on the beach.  I have three younger siblings and we grew up playing sports and board games.  If you invent a game that involves strategy, efficient use of resources, or two teams and chasing some sort of ball, disc, puck, etc., I will play.  Otherwise I am always looking for pick up soccer, basketball, frisbee, or Settlers of Catan.
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+##Balance
+Most importantly, I am married to smart, beautiful, amazing woman who, like me, plans her fall Saturdays around Notre Dame football games.
+
+
+### Website Acknowledgements
+This is built on the [Balzac-for-Jekyll](https://github.com/ColeTownsend/Balzac-for-Jekyll) theme by Cole Townsend which is a decendent of Michael Rose's [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/) theme.  [Jaan Alostaar](https://jaan.io/) was also a great deal of help.
+
+The font is [Calendas](http://calendasplus.com/) and Daniel Bruce created the wonderful [icons](http://entypo.com). The page is also <b>retina ready</b> thanks to [retina.js](http://retinajs.com).

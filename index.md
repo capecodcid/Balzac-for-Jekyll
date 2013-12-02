@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Pensees"
+title: "Recent"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: typewriter.jpg
+  feature: rsz_denim_texture.jpg
 ---

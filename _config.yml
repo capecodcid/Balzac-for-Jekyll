@@ -6,15 +6,15 @@ url: "http://localhost:4000"
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Andrew Hartnett
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
+  bio:            "Scientist & Aspiring Educator"
+  email:          ahartnet@princeton.edu
+#  twitter:        twnsndco        
+  github:         capecodcid       
+#  instagram:      ctrunsthis     
+#  dribbble:       coletownsend
+#  disqus:         balzac
   # Plug in your disqus shortname!
   
 
@@ -23,7 +23,7 @@ owner:
 links:
   - title: About
     url: /about
-  - title: Articles
+  - title: Pens&#233;es
     url: /articles 
   - title: Couzin Lab
     url: http://icouzin.princeton.edu/
