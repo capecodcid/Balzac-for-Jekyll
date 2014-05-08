@@ -8,9 +8,9 @@ url: "http://localhost:4000"
 owner:
   name:           Andrew Hartnett
   avatar:         avatar.png
-  bio:            "Scientist & Aspiring Educator"
+  bio:            "Scientist & Educator"
   email:          ahartnet@princeton.edu
-#  twitter:        twnsndco        
+  twitter:        hartnett_andrew        
   github:         capecodcid       
 #  instagram:      ctrunsthis     
 #  dribbble:       coletownsend
@@ -27,6 +27,9 @@ links:
     url: /articles 
   - title: Couzin Lab
     url: http://icouzin.princeton.edu/
+    external: true
+  - title: BVP
+    url: http://www.bvprep.blogspot.com/
     external: true
 #  - title: Github
 #    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
